@@ -1,0 +1,62 @@
+* {
+	font-family: "Merriweather Sans", serif;
+
+}
+/*HEADER*/
+#Logo {
+	font-weight: 1000;
+	font-size: 10rem;
+	border: 30px solid black;
+	padding: 10px;
+	text-align: center;
+	margin-top: -0%;
+	
+}
+
+h1 {
+	text-align: center;
+
+}
+
+li {
+	font-size: 1.5rem;
+	display: inline;
+	padding: 10px;
+
+}
+
+
+a {
+	color: black;
+	
+
+}
+
+#text {
+	text-align:  center;
+	margin-top: 5%;
+	font-size: 1.8rem;
+}
+
+img {
+	margin-top: 5%;
+}
+
+/*BACKGROUND*/
+
+body {
+	background-color: rgb(99, 32, 99);
+}
+
+
+/*FOOTER*/
+footer	{
+	margin-top: 35rem;
+	border-top: 1px solid black;
+}
+
+img {
+	width: 1200px;
+	padding-left: calc(50% - 600px);
+	
+}
